@@ -1,5 +1,7 @@
 # cra-template-typescript-fast-build
 
+[![npm version](https://badge.fury.io/js/cra-template-typescript-fast-build.svg)](https://badge.fury.io/js/cra-template-typescript-fast-build)
+
 The Create React App TypeScript template for improving build performance. 🚀
 
 > Original Create React App README available [here](./README_CRA.md)
