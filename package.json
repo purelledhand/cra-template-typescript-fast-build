@@ -19,7 +19,7 @@
     "compile",
     "performance"
   ],
-  "author": "sohye choi <purelledhand@gmail.com>",
+  "author": "Sohye Choi <purelledhand@gmail.com>",
   "repository": {
     "type": "git",
     "url": "https://github.com/purelledhand/cra-template-typescript-fast-build",
